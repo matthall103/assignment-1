@@ -1,0 +1,22 @@
+[
+  {
+    "sku" : "A",
+    "unitPrice": 50,
+    "multiBuyPrice": 130,
+    "multiBuyLimit": 3
+  },
+  {
+    "sku" : "B",
+    "unitPrice": 30,
+    "multiBuyPrice": 45,
+    "multiBuyLimit": 2
+  },
+  {
+    "sku" : "C",
+    "unitPrice": 20
+  },
+  {
+    "sku" : "D",
+    "unitPrice": 15
+  }
+]
